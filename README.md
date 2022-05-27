@@ -1,2 +1,2 @@
 # Python-Project
-different programs with iterative and reflexive methods 
+different maths programs with iterative and recursive methods 
